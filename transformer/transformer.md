@@ -5,3 +5,10 @@
 2. [tensorflow tutorial](https://www.tensorflow.org/tutorials/text/transformer?hl=zh_cn)
 
    
+
+# Paper
+
+1. [Attention is All You Need](https://arxiv.org/abs/1706.03762)
+
+   
+
