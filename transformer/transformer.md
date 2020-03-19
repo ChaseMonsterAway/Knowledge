@@ -4,6 +4,8 @@
 
 2. [tensorflow tutorial](https://www.tensorflow.org/tutorials/text/transformer?hl=zh_cn)
 
+3. [The illustration of transformer](http://jalammar.github.io/illustrated-transformer/)
+
    
 
 # Paper
