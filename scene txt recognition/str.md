@@ -6,7 +6,7 @@
 
 3. [Scene Text Recognition via Transformer](https://arxiv.org/pdf/2003.08077.pdf)
 
-4. [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/pdf/2003.12294.pdf) [note]
+4. [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/pdf/2003.12294.pdf)     [note]([https://github.com/ChaseMonsterAway/Knowledge/blob/master/note/scene%20txt%20recognition/TowardsAccurateSTRwithSemanticReasoningNets.md](https://github.com/ChaseMonsterAway/Knowledge/blob/master/note/scene txt recognition/TowardsAccurateSTRwithSemanticReasoningNets.md))
 
    
 
