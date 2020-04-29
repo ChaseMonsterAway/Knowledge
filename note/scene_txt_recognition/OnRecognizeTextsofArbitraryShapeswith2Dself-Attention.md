@@ -24,7 +24,7 @@
     - encoder: point-wise feedfoward layer -> locality-aware feedforward
     - N_e = 12, N_d = 6
 - loss
-  - 
+  - cross entropy
 - training
   - Adam, init_lr: 3e-4
   - learning rate scheduler:  cyclic learning rate, step=250000
