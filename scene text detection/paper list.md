@@ -9,3 +9,4 @@
 9. [Gliding vertex on the horizontal bounding box for multi-oriented object detection](https://arxiv.org/pdf/1911.09358v2.pdf) | [CODE] | arxiv 2020
 10. [ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Networ](https://arxiv.org/pdf/2002.10200v2.pdf) | CODE | arxiv 2020
 11. [Real-time Scene Text Detection with Differentiable Binarization](https://arxiv.org/pdf/1911.08947v2.pdf) | [CODE](https://github.com/MhLiao/DB) | AAAI 2020
+12. [ContourNet: Taking a Further Step toward Accurate Arbitrary-shaped Scene Text Detection](https://arxiv.org/pdf/2004.04940v1.pdf) | [CODE](https://github.com/wangyuxin87/ContourNet) | CVPR 2020
