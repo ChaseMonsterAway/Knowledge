@@ -3,7 +3,7 @@
 3. [Arbitrary-Oriented Scene Text Detection via Rotation Proposals](https://arxiv.org/pdf/1703.01086v3.pdf) | [CODE](https://github.com/mjq11302010044/RRPN) | TMM 2017
 4. [TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://arxiv.org/pdf/1801.02765v3.pdf) | [CODE](https://github.com/MhLiao/TextBoxes_plusplus) | TIP 2018
 5. [PixelLink: Detecting Scene Text via Instance Segmentation](https://arxiv.org/pdf/1801.01315v1.pdf) | [CODE](https://github.com/ZJULearning/pixel_link) | AAAI 2018
-6. [haracter Region Awareness for Text Detection](https://arxiv.org/pdf/1904.01941v1.pdf) | [CODE](https://github.com/clovaai/CRAFT-pytorch) | CVPR 2019
+6. [Character Region Awareness for Text Detection](https://arxiv.org/pdf/1904.01941v1.pdf) | [CODE](https://github.com/clovaai/CRAFT-pytorch) | CVPR 2019
 7. [Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/pdf/1903.12473v2.pdf) | [CODE](https://github.com/whai362/PSENet) | CVPR2019
 8. [Convolutional Character Networks](https://arxiv.org/pdf/1910.07954v1.pdf) | [CODE](https://github.com/MalongTech/research-charnet) | ICCV 2019
 9. [Gliding vertex on the horizontal bounding box for multi-oriented object detection](https://arxiv.org/pdf/1911.09358v2.pdf) | [CODE] | arxiv 2020
