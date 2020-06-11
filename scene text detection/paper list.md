@@ -13,7 +13,7 @@
 **Segmentation-based**
 
 1. [PixelLink: Detecting Scene Text via Instance Segmentation](https://arxiv.org/pdf/1801.01315v1.pdf) | [CODE](https://github.com/ZJULearning/pixel_link) | AAAI 2018
-2. [TextField: Learning A Deep Direction Field for Irregular Scene Text Detection](https://arxiv.org/pdf/1812.01393v2.pdf) | [CODE]() | TIP 2019
+2. [TextField: Learning A Deep Direction Field for Irregular Scene Text Detection](https://arxiv.org/pdf/1812.01393v2.pdf) | [CODE](https://github.com/YukangWang/TextField) | TIP 2019
 3. [Character Region Awareness for Text Detection](https://arxiv.org/pdf/1904.01941v1.pdf) | [CODE](https://github.com/clovaai/CRAFT-pytorch) | CVPR 2019
 4. [Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/pdf/1903.12473v2.pdf) | [CODE](https://github.com/whai362/PSENet) | CVPR2019
 5. [Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network](https://arxiv.org/pdf/1908.05900v1.pdf) | [CODE]() | ICCV 2019
