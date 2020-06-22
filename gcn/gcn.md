@@ -1,2 +1,3 @@
 - [gcn blog](https://towardsdatascience.com/deep-learning-on-graphs-convolution-is-all-you-need-3c1cf8f1e715)
 - [gcn for mnist classification](https://github.com/wangz10/gcn-playground/blob/master/graph.py)
+- [blog of tkipf](http://tkipf.github.io/graph-convolutional-networks/)
